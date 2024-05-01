@@ -5,7 +5,7 @@
 
 - 🔭Completed **C++ ROUTE FINDING PROJECT**
 - 🌱 I’m currently learning **DBMS on ORACLE**
-- 🌱 I’m currently learning **API INTEGRATION WITH C++**
+- 🌱 I have completed a group project on **API INTEGRATION WITH C++**
 
 - 📫 How to reach me **231616@students.au.edu.pk**
 
