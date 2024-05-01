@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabatariq-2310&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabatariq-2310" /> </p>
 
-- 🔭 I’m currently working on **C++ ROUTE FINDING PROJECT**
-
-- 🌱 I’m currently learning **FRONT END WEB DEVELOPMENT(HTML,CSS)**
+- 🔭Completed **C++ ROUTE FINDING PROJECT**
+- 🌱 I’m currently learning **DBMS on ORACLE**
+- 🌱 I’m currently learning **API INTEGRATION WITH C++**
 
 - 📫 How to reach me **231616@students.au.edu.pk**
 
